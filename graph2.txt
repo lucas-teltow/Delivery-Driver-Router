@@ -1,0 +1,5 @@
+Polis_Massa Ithor,4 Kamino,3 Hoth,5
+Hoth Corellia,6 Kamino,2 Ithor,3 Polis_Massa,5
+Kamino Hoth,2 Polis_Massa,3
+Ithor Corellia,3 Hoth,3 Polis_Massa,4
+Corellia Hoth,6 Ithor,3
